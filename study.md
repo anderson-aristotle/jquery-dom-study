@@ -11,16 +11,21 @@ material. Instead, digest what you've read and repeat it in your own voice.
 ## Required Readings
 
 - [The DOM | Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)
+  - Only read the intro paragraph.
 
-- [The DOM | CSS-Tricks](https://css-tricks.com/dom/). You may **ignore**
-    these sections if you wish: "JavaScript can manipulate the DOM" and "Ajax
-    and Templating".
+- [The DOM | CSS-Tricks](https://css-tricks.com/dom/)
+  - You may **ignore** the following sections if you wish: `JavaScript can manipulate
+    the DOM` and `Ajax and Templating`.
 
-- [Try jQuery](http://try.jquery.com/). You only need to complete level 1.
+- [The DOM | Check out this video](https://www.youtube.com/watch?v=n1cKlKM3jYI)
+  - The point is to get you to think about the DOM as a tree! The DOM is not
+  source code and it's also not a rendered page.
 
-- [Check out this video](https://www.youtube.com/watch?v=n1cKlKM3jYI). The
-  point is to get to think about the DOM as a tree! The DOM is not source and
-  it's also not a rendered page.
+- [jQuery | How jQuery Works](https://learn.jquery.com/about-jquery/how-jquery-works/)
+
+- [jQuery | Event Basics](https://learn.jquery.com/events/event-basics/)
+
+- [jQuery | Intro to Effects](https://learn.jquery.com/effects/intro-to-effects/)
 
 ## jQuery !== ?
 
